@@ -1,0 +1,37 @@
+
+√ Connected to GitHub
+
+A session for this runner already exists.
+2025-05-13 16:06:22Z: Runner connect error: The actions runner Sobans-MacBook-Pro already has an active session.. Retrying until reconnected.
+
+√ Connected to GitHub
+
+A session for this runner already exists.
+
+√ Connected to GitHub
+
+A session for this runner already exists.
+
+√ Connected to GitHub
+
+A session for this runner already exists.
+
+√ Connected to GitHub
+
+A session for this runner already exists.
+
+√ Connected to GitHub
+
+A session for this runner already exists.
+
+√ Connected to GitHub
+
+A session for this runner already exists.
+
+√ Connected to GitHub
+
+A session for this runner already exists.
+Stop retry on SessionConflictException after retried for 240 seconds.
+Failed to create session. The actions runner Sobans-MacBook-Pro already has an active session.
+Runner listener exit with Session Conflict error, stop the service, no retry needed.
+Exiting runner...

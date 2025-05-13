@@ -1,0 +1,135 @@
+[2025-05-13 16:02:33Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2025-05-13 16:02:33Z INFO HostContext] Well known directory 'Bin': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/bin'
+[2025-05-13 16:02:33Z INFO HostContext] Well known directory 'Root': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner'
+[2025-05-13 16:02:33Z INFO HostContext] Well known config file 'Credentials': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.credentials'
+[2025-05-13 16:02:33Z INFO HostContext] Well known directory 'Bin': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/bin'
+[2025-05-13 16:02:33Z INFO HostContext] Well known directory 'Root': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner'
+[2025-05-13 16:02:33Z INFO HostContext] Well known config file 'Runner': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.runner'
+[2025-05-13 16:02:33Z INFO Listener] Runner is built for OSX (X64) - osx-x64.
+[2025-05-13 16:02:33Z INFO Listener] RuntimeInformation: Darwin 24.4.0 Darwin Kernel Version 24.4.0: Fri Apr 11 18:33:47 PDT 2025; root:xnu-11417.101.15~117/RELEASE_ARM64_T6000.
+[2025-05-13 16:02:33Z INFO Listener] Version: 2.323.0
+[2025-05-13 16:02:33Z INFO Listener] Commit: d8b82f44a9ec0258904d5869ae683c31d5aac299
+[2025-05-13 16:02:33Z INFO Listener] Culture: en-US
+[2025-05-13 16:02:33Z INFO Listener] UI Culture: en-US
+[2025-05-13 16:02:33Z INFO HostContext] Well known directory 'Bin': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/bin'
+[2025-05-13 16:02:33Z INFO HostContext] Well known directory 'Root': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner'
+[2025-05-13 16:02:33Z INFO Listener] Validating directory permissions for: '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner'
+[2025-05-13 16:02:33Z INFO CommandLineParser] Parse
+[2025-05-13 16:02:33Z INFO CommandLineParser] Parsing 1 args
+[2025-05-13 16:02:33Z INFO CommandLineParser] parsing argument
+[2025-05-13 16:02:33Z INFO CommandLineParser] HasArgs: False
+[2025-05-13 16:02:33Z INFO CommandLineParser] Adding Command: run
+[2025-05-13 16:02:33Z INFO Listener] Arguments parsed
+[2025-05-13 16:02:33Z INFO Runner] ExecuteCommand
+[2025-05-13 16:02:33Z INFO ConfigurationStore] currentAssemblyLocation: /Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/bin/Runner.Listener.dll
+[2025-05-13 16:02:33Z INFO HostContext] Well known directory 'Bin': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/bin'
+[2025-05-13 16:02:33Z INFO ConfigurationStore] binPath: /Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/bin
+[2025-05-13 16:02:33Z INFO HostContext] Well known directory 'Bin': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/bin'
+[2025-05-13 16:02:33Z INFO HostContext] Well known directory 'Root': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner'
+[2025-05-13 16:02:33Z INFO ConfigurationStore] RootFolder: /Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner
+[2025-05-13 16:02:33Z INFO HostContext] Well known directory 'Bin': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/bin'
+[2025-05-13 16:02:33Z INFO HostContext] Well known directory 'Root': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner'
+[2025-05-13 16:02:33Z INFO HostContext] Well known config file 'Runner': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.runner'
+[2025-05-13 16:02:33Z INFO ConfigurationStore] ConfigFilePath: /Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.runner
+[2025-05-13 16:02:33Z INFO HostContext] Well known directory 'Bin': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/bin'
+[2025-05-13 16:02:33Z INFO HostContext] Well known directory 'Root': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner'
+[2025-05-13 16:02:33Z INFO HostContext] Well known config file 'MigratedRunner': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.runner_migrated'
+[2025-05-13 16:02:33Z INFO ConfigurationStore] MigratedConfigFilePath: /Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.runner_migrated
+[2025-05-13 16:02:33Z INFO HostContext] Well known directory 'Bin': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/bin'
+[2025-05-13 16:02:33Z INFO HostContext] Well known directory 'Root': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner'
+[2025-05-13 16:02:33Z INFO HostContext] Well known config file 'Credentials': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.credentials'
+[2025-05-13 16:02:33Z INFO ConfigurationStore] CredFilePath: /Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.credentials
+[2025-05-13 16:02:33Z INFO HostContext] Well known directory 'Bin': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/bin'
+[2025-05-13 16:02:33Z INFO HostContext] Well known directory 'Root': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner'
+[2025-05-13 16:02:33Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.credentials_migrated'
+[2025-05-13 16:02:33Z INFO ConfigurationStore] MigratedCredFilePath: /Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.credentials_migrated
+[2025-05-13 16:02:33Z INFO HostContext] Well known directory 'Bin': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/bin'
+[2025-05-13 16:02:33Z INFO HostContext] Well known directory 'Root': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner'
+[2025-05-13 16:02:33Z INFO HostContext] Well known config file 'Service': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.service'
+[2025-05-13 16:02:33Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.service
+[2025-05-13 16:02:33Z INFO CommandSettings] Flag 'help': 'False'
+[2025-05-13 16:02:33Z INFO CommandSettings] Flag 'version': 'False'
+[2025-05-13 16:02:33Z INFO CommandSettings] Flag 'commit': 'False'
+[2025-05-13 16:02:33Z INFO CommandSettings] Flag 'check': 'False'
+[2025-05-13 16:02:33Z INFO CommandSettings] Command 'configure': 'False'
+[2025-05-13 16:02:33Z INFO CommandSettings] Command 'remove': 'False'
+[2025-05-13 16:02:33Z INFO CommandSettings] Command 'warmup': 'False'
+[2025-05-13 16:02:33Z INFO ConfigurationManager] LoadSettings
+[2025-05-13 16:02:33Z INFO ConfigurationStore] IsConfigured()
+[2025-05-13 16:02:33Z INFO ConfigurationStore] IsConfigured: True
+[2025-05-13 16:02:33Z INFO ConfigurationManager] Is configured: True
+[2025-05-13 16:02:33Z INFO ConfigurationStore] Read setting file: 311 chars
+[2025-05-13 16:02:33Z INFO ConfigurationManager] Settings Loaded
+[2025-05-13 16:02:33Z INFO ConfigurationStore] IsServiceConfigured()
+[2025-05-13 16:02:33Z INFO ConfigurationStore] IsServiceConfigured: False
+[2025-05-13 16:02:33Z INFO CommandSettings] Command 'run': 'True'
+[2025-05-13 16:02:33Z INFO ConfigurationStore] IsConfigured()
+[2025-05-13 16:02:33Z INFO ConfigurationStore] IsConfigured: True
+[2025-05-13 16:02:33Z INFO ConfigurationManager] Is configured: True
+[2025-05-13 16:02:33Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2025-05-13 16:02:33Z INFO Runner] Set runner startup type - Manual
+[2025-05-13 16:02:33Z INFO CommandSettings] Flag 'once': 'False'
+[2025-05-13 16:02:33Z INFO CommandSettings] Flag 'once': 'False'
+[2025-05-13 16:02:33Z INFO Runner] RunAsync
+[2025-05-13 16:02:33Z INFO ConfigurationManager] LoadSettings
+[2025-05-13 16:02:33Z INFO ConfigurationStore] IsConfigured()
+[2025-05-13 16:02:33Z INFO ConfigurationStore] IsConfigured: True
+[2025-05-13 16:02:33Z INFO ConfigurationManager] Is configured: True
+[2025-05-13 16:02:33Z INFO ConfigurationManager] Settings Loaded
+[2025-05-13 16:02:33Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "Sobans-MacBook-Pro",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus2.actions.githubusercontent.com/0oGKkrfMDUvRRhNTOS3VnEIJjMFUpKrHN2LsBVSCp8x6Gpttpl/",
+  "GitHubUrl": "https://github.com/Schwifty101/finalprojectSCD",
+  "WorkFolder": "_work"
+}
+[2025-05-13 16:02:33Z INFO MessageListener] Loading Credentials
+[2025-05-13 16:02:33Z INFO ConfigurationStore] HasCredentials()
+[2025-05-13 16:02:33Z INFO ConfigurationStore] stored True
+[2025-05-13 16:02:33Z INFO CredentialManager] GetCredentialProvider
+[2025-05-13 16:02:33Z INFO CredentialManager] Creating type OAuth
+[2025-05-13 16:02:33Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-13 16:02:33Z INFO HostContext] Well known directory 'Bin': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/bin'
+[2025-05-13 16:02:33Z INFO HostContext] Well known directory 'Root': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner'
+[2025-05-13 16:02:33Z INFO HostContext] Well known config file 'RSACredentials': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.credentials_rsaparams'
+[2025-05-13 16:02:33Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.credentials_rsaparams
+[2025-05-13 16:02:33Z INFO MessageListener] Attempt to create session.
+[2025-05-13 16:02:33Z INFO MessageListener] Connecting to the Runner Server...
+[2025-05-13 16:02:33Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:02:33Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-05-13 16:02:34Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:02:34Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:02:34Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-05-13 16:02:34Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:02:34Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:02:34Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-05-13 16:02:34Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:02:35Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:02:35Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:02:35Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:02:35Z INFO MessageListener] VssConnection created
+[2025-05-13 16:02:35Z INFO Terminal] WRITE LINE: 
+[2025-05-13 16:02:35Z INFO Terminal] WRITE LINE: 
+[2025-05-13 16:02:36Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.credentials_rsaparams
+[2025-05-13 16:02:36Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.credentials_rsaparams
+[2025-05-13 16:02:37Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-05-13 16:02:37Z ERR  GitHubActionsService] POST request to https://pipelinesghubeus2.actions.githubusercontent.com/0oGKkrfMDUvRRhNTOS3VnEIJjMFUpKrHN2LsBVSCp8x6Gpttpl/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict
+[2025-05-13 16:02:37Z ERR  MessageListener] Catch exception during create session.
+[2025-05-13 16:02:37Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner Sobans-MacBook-Pro already has an active session.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2025-05-13 16:02:37Z INFO MessageListener] The session for this runner already exists.
+[2025-05-13 16:02:37Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2025-05-13 16:02:37Z INFO MessageListener] The session conflict exception haven't reached retry limit.
+[2025-05-13 16:02:37Z ERR  Terminal] WRITE ERROR: 2025-05-13 16:02:37Z: Runner connect error: The actions runner Sobans-MacBook-Pro already has an active session.. Retrying until reconnected.
+[2025-05-13 16:02:37Z INFO MessageListener] Sleeping for 30 seconds before retrying.
+[2025-05-13 16:02:45Z INFO Terminal] WRITE LINE: Exiting...
+[2025-05-13 16:02:45Z INFO ConfigurationStore] IsServiceConfigured()
+[2025-05-13 16:02:45Z INFO ConfigurationStore] IsServiceConfigured: False
+[2025-05-13 16:02:45Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2025-05-13 16:02:45Z INFO Listener] Runner execution been cancelled.

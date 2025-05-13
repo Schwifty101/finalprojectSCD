@@ -1,0 +1,335 @@
+[2025-05-13 16:06:16Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2025-05-13 16:06:16Z INFO HostContext] Well known directory 'Bin': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/bin'
+[2025-05-13 16:06:16Z INFO HostContext] Well known directory 'Root': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner'
+[2025-05-13 16:06:16Z INFO HostContext] Well known config file 'Credentials': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.credentials'
+[2025-05-13 16:06:17Z INFO HostContext] Well known directory 'Bin': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/bin'
+[2025-05-13 16:06:17Z INFO HostContext] Well known directory 'Root': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner'
+[2025-05-13 16:06:17Z INFO HostContext] Well known config file 'Runner': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.runner'
+[2025-05-13 16:06:17Z INFO Listener] Runner is built for OSX (X64) - osx-x64.
+[2025-05-13 16:06:17Z INFO Listener] RuntimeInformation: Darwin 24.4.0 Darwin Kernel Version 24.4.0: Fri Apr 11 18:33:47 PDT 2025; root:xnu-11417.101.15~117/RELEASE_ARM64_T6000.
+[2025-05-13 16:06:17Z INFO Listener] Version: 2.323.0
+[2025-05-13 16:06:17Z INFO Listener] Commit: d8b82f44a9ec0258904d5869ae683c31d5aac299
+[2025-05-13 16:06:17Z INFO Listener] Culture: en-US
+[2025-05-13 16:06:17Z INFO Listener] UI Culture: en-US
+[2025-05-13 16:06:17Z INFO HostContext] Well known directory 'Bin': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/bin'
+[2025-05-13 16:06:17Z INFO HostContext] Well known directory 'Root': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner'
+[2025-05-13 16:06:17Z INFO Listener] Validating directory permissions for: '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner'
+[2025-05-13 16:06:17Z INFO CommandLineParser] Parse
+[2025-05-13 16:06:17Z INFO CommandLineParser] Parsing 1 args
+[2025-05-13 16:06:17Z INFO CommandLineParser] parsing argument
+[2025-05-13 16:06:17Z INFO CommandLineParser] HasArgs: False
+[2025-05-13 16:06:17Z INFO CommandLineParser] Adding Command: run
+[2025-05-13 16:06:17Z INFO Listener] Arguments parsed
+[2025-05-13 16:06:17Z INFO Runner] ExecuteCommand
+[2025-05-13 16:06:17Z INFO ConfigurationStore] currentAssemblyLocation: /Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/bin/Runner.Listener.dll
+[2025-05-13 16:06:17Z INFO HostContext] Well known directory 'Bin': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/bin'
+[2025-05-13 16:06:17Z INFO ConfigurationStore] binPath: /Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/bin
+[2025-05-13 16:06:17Z INFO HostContext] Well known directory 'Bin': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/bin'
+[2025-05-13 16:06:17Z INFO HostContext] Well known directory 'Root': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner'
+[2025-05-13 16:06:17Z INFO ConfigurationStore] RootFolder: /Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner
+[2025-05-13 16:06:17Z INFO HostContext] Well known directory 'Bin': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/bin'
+[2025-05-13 16:06:17Z INFO HostContext] Well known directory 'Root': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner'
+[2025-05-13 16:06:17Z INFO HostContext] Well known config file 'Runner': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.runner'
+[2025-05-13 16:06:17Z INFO ConfigurationStore] ConfigFilePath: /Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.runner
+[2025-05-13 16:06:17Z INFO HostContext] Well known directory 'Bin': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/bin'
+[2025-05-13 16:06:17Z INFO HostContext] Well known directory 'Root': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner'
+[2025-05-13 16:06:17Z INFO HostContext] Well known config file 'MigratedRunner': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.runner_migrated'
+[2025-05-13 16:06:17Z INFO ConfigurationStore] MigratedConfigFilePath: /Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.runner_migrated
+[2025-05-13 16:06:17Z INFO HostContext] Well known directory 'Bin': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/bin'
+[2025-05-13 16:06:17Z INFO HostContext] Well known directory 'Root': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner'
+[2025-05-13 16:06:17Z INFO HostContext] Well known config file 'Credentials': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.credentials'
+[2025-05-13 16:06:17Z INFO ConfigurationStore] CredFilePath: /Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.credentials
+[2025-05-13 16:06:17Z INFO HostContext] Well known directory 'Bin': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/bin'
+[2025-05-13 16:06:17Z INFO HostContext] Well known directory 'Root': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner'
+[2025-05-13 16:06:17Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.credentials_migrated'
+[2025-05-13 16:06:17Z INFO ConfigurationStore] MigratedCredFilePath: /Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.credentials_migrated
+[2025-05-13 16:06:17Z INFO HostContext] Well known directory 'Bin': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/bin'
+[2025-05-13 16:06:17Z INFO HostContext] Well known directory 'Root': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner'
+[2025-05-13 16:06:17Z INFO HostContext] Well known config file 'Service': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.service'
+[2025-05-13 16:06:17Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.service
+[2025-05-13 16:06:17Z INFO CommandSettings] Flag 'help': 'False'
+[2025-05-13 16:06:17Z INFO CommandSettings] Flag 'version': 'False'
+[2025-05-13 16:06:17Z INFO CommandSettings] Flag 'commit': 'False'
+[2025-05-13 16:06:17Z INFO CommandSettings] Flag 'check': 'False'
+[2025-05-13 16:06:17Z INFO CommandSettings] Command 'configure': 'False'
+[2025-05-13 16:06:17Z INFO CommandSettings] Command 'remove': 'False'
+[2025-05-13 16:06:17Z INFO CommandSettings] Command 'warmup': 'False'
+[2025-05-13 16:06:17Z INFO ConfigurationManager] LoadSettings
+[2025-05-13 16:06:17Z INFO ConfigurationStore] IsConfigured()
+[2025-05-13 16:06:17Z INFO ConfigurationStore] IsConfigured: True
+[2025-05-13 16:06:17Z INFO ConfigurationManager] Is configured: True
+[2025-05-13 16:06:17Z INFO ConfigurationStore] Read setting file: 311 chars
+[2025-05-13 16:06:17Z INFO ConfigurationManager] Settings Loaded
+[2025-05-13 16:06:17Z INFO ConfigurationStore] IsServiceConfigured()
+[2025-05-13 16:06:17Z INFO ConfigurationStore] IsServiceConfigured: False
+[2025-05-13 16:06:17Z INFO CommandSettings] Command 'run': 'True'
+[2025-05-13 16:06:17Z INFO ConfigurationStore] IsConfigured()
+[2025-05-13 16:06:17Z INFO ConfigurationStore] IsConfigured: True
+[2025-05-13 16:06:17Z INFO ConfigurationManager] Is configured: True
+[2025-05-13 16:06:17Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2025-05-13 16:06:17Z INFO Runner] Set runner startup type - Manual
+[2025-05-13 16:06:17Z INFO CommandSettings] Flag 'once': 'False'
+[2025-05-13 16:06:17Z INFO CommandSettings] Flag 'once': 'False'
+[2025-05-13 16:06:17Z INFO Runner] RunAsync
+[2025-05-13 16:06:17Z INFO ConfigurationManager] LoadSettings
+[2025-05-13 16:06:17Z INFO ConfigurationStore] IsConfigured()
+[2025-05-13 16:06:17Z INFO ConfigurationStore] IsConfigured: True
+[2025-05-13 16:06:17Z INFO ConfigurationManager] Is configured: True
+[2025-05-13 16:06:17Z INFO ConfigurationManager] Settings Loaded
+[2025-05-13 16:06:17Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "Sobans-MacBook-Pro",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus2.actions.githubusercontent.com/0oGKkrfMDUvRRhNTOS3VnEIJjMFUpKrHN2LsBVSCp8x6Gpttpl/",
+  "GitHubUrl": "https://github.com/Schwifty101/finalprojectSCD",
+  "WorkFolder": "_work"
+}
+[2025-05-13 16:06:17Z INFO MessageListener] Loading Credentials
+[2025-05-13 16:06:17Z INFO ConfigurationStore] HasCredentials()
+[2025-05-13 16:06:17Z INFO ConfigurationStore] stored True
+[2025-05-13 16:06:17Z INFO CredentialManager] GetCredentialProvider
+[2025-05-13 16:06:17Z INFO CredentialManager] Creating type OAuth
+[2025-05-13 16:06:17Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-13 16:06:17Z INFO HostContext] Well known directory 'Bin': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/bin'
+[2025-05-13 16:06:17Z INFO HostContext] Well known directory 'Root': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner'
+[2025-05-13 16:06:17Z INFO HostContext] Well known config file 'RSACredentials': '/Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.credentials_rsaparams'
+[2025-05-13 16:06:17Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.credentials_rsaparams
+[2025-05-13 16:06:17Z INFO MessageListener] Attempt to create session.
+[2025-05-13 16:06:17Z INFO MessageListener] Connecting to the Runner Server...
+[2025-05-13 16:06:17Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:06:17Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-05-13 16:06:17Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:06:17Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:06:17Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-05-13 16:06:17Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:06:17Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:06:17Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-05-13 16:06:17Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:06:19Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:06:19Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:06:19Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:06:19Z INFO MessageListener] VssConnection created
+[2025-05-13 16:06:19Z INFO Terminal] WRITE LINE: 
+[2025-05-13 16:06:19Z INFO Terminal] WRITE LINE: 
+[2025-05-13 16:06:20Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.credentials_rsaparams
+[2025-05-13 16:06:20Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/sobanahmad/Fast-Nuces/Semester 6/SCD/SCDFInalProject/actions-runner/.credentials_rsaparams
+[2025-05-13 16:06:21Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-05-13 16:06:22Z ERR  GitHubActionsService] POST request to https://pipelinesghubeus2.actions.githubusercontent.com/0oGKkrfMDUvRRhNTOS3VnEIJjMFUpKrHN2LsBVSCp8x6Gpttpl/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict
+[2025-05-13 16:06:22Z ERR  MessageListener] Catch exception during create session.
+[2025-05-13 16:06:22Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner Sobans-MacBook-Pro already has an active session.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2025-05-13 16:06:22Z INFO MessageListener] The session for this runner already exists.
+[2025-05-13 16:06:22Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2025-05-13 16:06:22Z INFO MessageListener] The session conflict exception haven't reached retry limit.
+[2025-05-13 16:06:22Z ERR  Terminal] WRITE ERROR: 2025-05-13 16:06:22Z: Runner connect error: The actions runner Sobans-MacBook-Pro already has an active session.. Retrying until reconnected.
+[2025-05-13 16:06:22Z INFO MessageListener] Sleeping for 30 seconds before retrying.
+[2025-05-13 16:06:52Z INFO MessageListener] Attempt to create session.
+[2025-05-13 16:06:52Z INFO MessageListener] Connecting to the Runner Server...
+[2025-05-13 16:06:52Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:06:52Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-05-13 16:06:52Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:06:53Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:06:53Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-05-13 16:06:53Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:06:53Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:06:53Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-05-13 16:06:53Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:06:54Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:06:54Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:06:54Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:06:54Z INFO MessageListener] VssConnection created
+[2025-05-13 16:06:54Z INFO Terminal] WRITE LINE: 
+[2025-05-13 16:06:54Z INFO Terminal] WRITE LINE: 
+[2025-05-13 16:06:54Z ERR  GitHubActionsService] POST request to https://pipelinesghubeus2.actions.githubusercontent.com/0oGKkrfMDUvRRhNTOS3VnEIJjMFUpKrHN2LsBVSCp8x6Gpttpl/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict
+[2025-05-13 16:06:54Z ERR  MessageListener] Catch exception during create session.
+[2025-05-13 16:06:54Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner Sobans-MacBook-Pro already has an active session.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2025-05-13 16:06:54Z INFO MessageListener] The session for this runner already exists.
+[2025-05-13 16:06:54Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2025-05-13 16:06:54Z INFO MessageListener] The session conflict exception haven't reached retry limit.
+[2025-05-13 16:06:54Z INFO MessageListener] Sleeping for 30 seconds before retrying.
+[2025-05-13 16:07:24Z INFO MessageListener] Attempt to create session.
+[2025-05-13 16:07:24Z INFO MessageListener] Connecting to the Runner Server...
+[2025-05-13 16:07:24Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:07:24Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-05-13 16:07:24Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:07:24Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:07:24Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-05-13 16:07:25Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:07:25Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:07:25Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-05-13 16:07:25Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:07:26Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:07:26Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:07:26Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:07:26Z INFO MessageListener] VssConnection created
+[2025-05-13 16:07:26Z INFO Terminal] WRITE LINE: 
+[2025-05-13 16:07:26Z INFO Terminal] WRITE LINE: 
+[2025-05-13 16:07:26Z ERR  GitHubActionsService] POST request to https://pipelinesghubeus2.actions.githubusercontent.com/0oGKkrfMDUvRRhNTOS3VnEIJjMFUpKrHN2LsBVSCp8x6Gpttpl/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict
+[2025-05-13 16:07:26Z ERR  MessageListener] Catch exception during create session.
+[2025-05-13 16:07:26Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner Sobans-MacBook-Pro already has an active session.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2025-05-13 16:07:26Z INFO MessageListener] The session for this runner already exists.
+[2025-05-13 16:07:26Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2025-05-13 16:07:26Z INFO MessageListener] The session conflict exception haven't reached retry limit.
+[2025-05-13 16:07:26Z INFO MessageListener] Sleeping for 30 seconds before retrying.
+[2025-05-13 16:07:56Z INFO MessageListener] Attempt to create session.
+[2025-05-13 16:07:56Z INFO MessageListener] Connecting to the Runner Server...
+[2025-05-13 16:07:56Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:07:56Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-05-13 16:07:57Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:07:57Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:07:57Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-05-13 16:07:57Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:07:57Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:07:57Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-05-13 16:07:57Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:07:58Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:07:58Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:07:58Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:07:59Z INFO MessageListener] VssConnection created
+[2025-05-13 16:07:59Z INFO Terminal] WRITE LINE: 
+[2025-05-13 16:07:59Z INFO Terminal] WRITE LINE: 
+[2025-05-13 16:07:59Z ERR  GitHubActionsService] POST request to https://pipelinesghubeus2.actions.githubusercontent.com/0oGKkrfMDUvRRhNTOS3VnEIJjMFUpKrHN2LsBVSCp8x6Gpttpl/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict
+[2025-05-13 16:07:59Z ERR  MessageListener] Catch exception during create session.
+[2025-05-13 16:07:59Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner Sobans-MacBook-Pro already has an active session.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2025-05-13 16:07:59Z INFO MessageListener] The session for this runner already exists.
+[2025-05-13 16:07:59Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2025-05-13 16:07:59Z INFO MessageListener] The session conflict exception haven't reached retry limit.
+[2025-05-13 16:07:59Z INFO MessageListener] Sleeping for 30 seconds before retrying.
+[2025-05-13 16:08:29Z INFO MessageListener] Attempt to create session.
+[2025-05-13 16:08:29Z INFO MessageListener] Connecting to the Runner Server...
+[2025-05-13 16:08:29Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:08:29Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-05-13 16:08:29Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:08:29Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:08:29Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-05-13 16:08:29Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:08:29Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:08:29Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-05-13 16:08:29Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:08:30Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:08:30Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:08:30Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:08:30Z INFO MessageListener] VssConnection created
+[2025-05-13 16:08:30Z INFO Terminal] WRITE LINE: 
+[2025-05-13 16:08:30Z INFO Terminal] WRITE LINE: 
+[2025-05-13 16:08:31Z ERR  GitHubActionsService] POST request to https://pipelinesghubeus2.actions.githubusercontent.com/0oGKkrfMDUvRRhNTOS3VnEIJjMFUpKrHN2LsBVSCp8x6Gpttpl/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict
+[2025-05-13 16:08:31Z ERR  MessageListener] Catch exception during create session.
+[2025-05-13 16:08:31Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner Sobans-MacBook-Pro already has an active session.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2025-05-13 16:08:31Z INFO MessageListener] The session for this runner already exists.
+[2025-05-13 16:08:31Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2025-05-13 16:08:31Z INFO MessageListener] The session conflict exception haven't reached retry limit.
+[2025-05-13 16:08:31Z INFO MessageListener] Sleeping for 30 seconds before retrying.
+[2025-05-13 16:09:01Z INFO MessageListener] Attempt to create session.
+[2025-05-13 16:09:01Z INFO MessageListener] Connecting to the Runner Server...
+[2025-05-13 16:09:01Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:09:01Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-05-13 16:09:01Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:09:01Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:09:01Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-05-13 16:09:01Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:09:01Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:09:01Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-05-13 16:09:01Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:09:02Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:09:02Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:09:02Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:09:02Z INFO MessageListener] VssConnection created
+[2025-05-13 16:09:02Z INFO Terminal] WRITE LINE: 
+[2025-05-13 16:09:02Z INFO Terminal] WRITE LINE: 
+[2025-05-13 16:09:02Z ERR  GitHubActionsService] POST request to https://pipelinesghubeus2.actions.githubusercontent.com/0oGKkrfMDUvRRhNTOS3VnEIJjMFUpKrHN2LsBVSCp8x6Gpttpl/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict
+[2025-05-13 16:09:02Z ERR  MessageListener] Catch exception during create session.
+[2025-05-13 16:09:02Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner Sobans-MacBook-Pro already has an active session.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2025-05-13 16:09:02Z INFO MessageListener] The session for this runner already exists.
+[2025-05-13 16:09:02Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2025-05-13 16:09:02Z INFO MessageListener] The session conflict exception haven't reached retry limit.
+[2025-05-13 16:09:02Z INFO MessageListener] Sleeping for 30 seconds before retrying.
+[2025-05-13 16:09:32Z INFO MessageListener] Attempt to create session.
+[2025-05-13 16:09:32Z INFO MessageListener] Connecting to the Runner Server...
+[2025-05-13 16:09:32Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:09:32Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-05-13 16:09:32Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:09:32Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:09:32Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-05-13 16:09:32Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:09:32Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:09:32Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-05-13 16:09:33Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:09:36Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:09:36Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:09:37Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:09:37Z INFO MessageListener] VssConnection created
+[2025-05-13 16:09:37Z INFO Terminal] WRITE LINE: 
+[2025-05-13 16:09:37Z INFO Terminal] WRITE LINE: 
+[2025-05-13 16:09:46Z ERR  GitHubActionsService] POST request to https://pipelinesghubeus2.actions.githubusercontent.com/0oGKkrfMDUvRRhNTOS3VnEIJjMFUpKrHN2LsBVSCp8x6Gpttpl/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict
+[2025-05-13 16:09:46Z ERR  MessageListener] Catch exception during create session.
+[2025-05-13 16:09:46Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner Sobans-MacBook-Pro already has an active session.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2025-05-13 16:09:46Z INFO MessageListener] The session for this runner already exists.
+[2025-05-13 16:09:46Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2025-05-13 16:09:46Z INFO MessageListener] The session conflict exception haven't reached retry limit.
+[2025-05-13 16:09:46Z INFO MessageListener] Sleeping for 30 seconds before retrying.
+[2025-05-13 16:10:16Z INFO MessageListener] Attempt to create session.
+[2025-05-13 16:10:16Z INFO MessageListener] Connecting to the Runner Server...
+[2025-05-13 16:10:16Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:10:16Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-05-13 16:10:16Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:10:16Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:10:16Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-05-13 16:10:16Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:10:16Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 16:10:16Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-05-13 16:10:16Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 16:10:18Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:10:19Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:10:19Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 16:10:19Z INFO MessageListener] VssConnection created
+[2025-05-13 16:10:19Z INFO Terminal] WRITE LINE: 
+[2025-05-13 16:10:19Z INFO Terminal] WRITE LINE: 
+[2025-05-13 16:10:19Z ERR  GitHubActionsService] POST request to https://pipelinesghubeus2.actions.githubusercontent.com/0oGKkrfMDUvRRhNTOS3VnEIJjMFUpKrHN2LsBVSCp8x6Gpttpl/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict
+[2025-05-13 16:10:19Z ERR  MessageListener] Catch exception during create session.
+[2025-05-13 16:10:19Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner Sobans-MacBook-Pro already has an active session.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2025-05-13 16:10:19Z INFO MessageListener] The session for this runner already exists.
+[2025-05-13 16:10:19Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2025-05-13 16:10:19Z INFO MessageListener] The session conflict exception have reached retry limit.
+[2025-05-13 16:10:19Z ERR  Terminal] WRITE ERROR: Stop retry on SessionConflictException after retried for 240 seconds.
+[2025-05-13 16:10:19Z ERR  Terminal] WRITE ERROR: Failed to create session. The actions runner Sobans-MacBook-Pro already has an active session.
+[2025-05-13 16:10:20Z INFO Listener] Runner execution has finished with return code 5
