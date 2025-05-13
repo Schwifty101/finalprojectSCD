@@ -17,7 +17,7 @@ jobs:
     - name: Build & Push Backend Image
       run: |
         docker build -t myusername/my-backend:latest ./backend
-        echo dckr_pat_pmvPsehZsTtxLJFxft0j6_GdZOM | docker login -u schwifty404 --password-stdin
+        echo ${{ secrets.DOCKER_PAT }} | docker login -u ${{ secrets.DOCKER_USERNAME }} --password-stdin
         docker push myusername/my-backend:latest
 
     - name: Build & Push Frontend Image
